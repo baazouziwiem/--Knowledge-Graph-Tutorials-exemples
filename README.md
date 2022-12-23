@@ -16,15 +16,3 @@ The following is a list of resources linked to in the respective examples:
 * [AMIE+](https://github.com/samehkamaleldin/amie_plus) (Rule Mining)
 * [DL Learner](https://dl-learner.org/) (DL Axiom Mining)
 
-## Contributing
-
-Please feel free to submit [bug reports](https://github.com/knowledge-graphs-tutorial/examples/issues) and [pull requests](https://github.com/knowledge-graphs-tutorial/examples/pulls)!
-
-For example, if you are a lecturer and structures your slides after the paper, you might create additional examples or step-by-step calculations to explain the paper's concepts to your students.
-Feel free to add those to this repository!
-
-## License
-
-![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
-
-To the extent possible under law, the contributors waive all copyright and related or neighboring rights to the contents of this repository.
